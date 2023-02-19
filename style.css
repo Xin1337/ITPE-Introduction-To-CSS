@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p.center {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+p.bold {
+    font-weight: bold;
+}
+
+p.italic {
+    font-style: italic;
+  }
+
+p.big {
+    font-size: 130%;
+}
+
+p.small {
+    font-size: 80%;
+}
+
+p.margin {
+    margin: 15px 90px;
+}
+
+p.margin1 {
+    margin: 20px 138px;
+}
+
+p.output {
+        margin: 5px 138px 5px 138px;
+        font-style: italic;
+}
+
+p.output2 {
+    margin: 5px 138px 15px 138px;
+    font-style: italic;
+}
+
+.box {
+    height: auto;
+    width: auto;
+    background-color: rgb(102, 148, 207);
+    color: #fff;
+    padding: 10px;
+    border: solid 2px rgb(4, 18, 146);
+  }
